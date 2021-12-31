@@ -1,0 +1,20 @@
+.sing {
+    text-align: center;
+    margin-top: 200px;
+}
+
+* {
+    background-color: #CDDEFF;
+}
+
+#man {
+    font-size: 100px;
+}
+
+.btn {
+    margin: 0px 40px;
+}
+
+#mam {
+    padding: 5px 25px;
+}
